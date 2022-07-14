@@ -484,7 +484,7 @@ __handlers__ = [
     (BLACKLIST_DEL_HANDLER, BLACKLIST_GROUP),
 ]
 
-__mod_name__ = "Blacklists 📓"
+__mod_name__ = "《Blacklists》"
 
 __help__ = """
 
