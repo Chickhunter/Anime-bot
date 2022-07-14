@@ -68,7 +68,7 @@ dispatcher.add_handler(LEAVE_HANDLER)
 dispatcher.add_handler(GITPULL_HANDLER)
 dispatcher.add_handler(RESTART_HANDLER)
 
-__mod_name__ = "Dev Commands"
+__mod_name__ = "《Dev Commands》"
 
 ___help__ = """
 Here is help for Dev Commands.
