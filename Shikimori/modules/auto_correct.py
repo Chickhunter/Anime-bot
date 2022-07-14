@@ -26,7 +26,7 @@ __handlers__ = [
     AUTOCORRECT_HANDLER
 ]
 
-__mod_name__ = "Auto Correct"
+__mod_name__ = "《Auto Correct》"
 __name__ = """
    ➢ `/autocorrect` : Reply to a message to show correct spelling.
 
