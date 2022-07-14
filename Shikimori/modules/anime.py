@@ -585,7 +585,7 @@ __handlers__ = [
 ]
 
 
-__mod_name__ = "Anime ⛩️"
+__mod_name__ = "《Anime》"
 
 __help__ = """
                        
