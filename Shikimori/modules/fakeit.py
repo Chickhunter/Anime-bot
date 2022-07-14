@@ -32,7 +32,7 @@ async def picgen(_, message):
 
 
 
-__mod_name__ = "Fake info"
+__mod_name__ = "《Fake info》"
 
 __help__ = """
 *Commands:*
