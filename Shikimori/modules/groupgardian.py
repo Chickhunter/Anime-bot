@@ -435,5 +435,5 @@ __help__ = """
  - `/profanity` <i>on/off</i> - Enable|Disable slag word cleaning
  
 """
-__mod_name__ = "Group Guardian"
+__mod_name__ = "《Group Guardian》"
  
