@@ -181,5 +181,5 @@ async def progress_callback(current, total, reply):
                 start_time,
             )
 
-__mod_name__ = "What anime"
+__mod_name__ = "《What anime》"
 __help__ = "`/whatanime` - Reply to a anime media(image, video, gif) to get info about source."
