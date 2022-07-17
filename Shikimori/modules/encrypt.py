@@ -27,7 +27,7 @@ async def hmm(event):
     await event.reply(k)
 
 
-__mod_name__ = "Encryption"
+__mod_name__ = "《Encryption》"
 
 ___help__ = """
 Here is help for Encryption
