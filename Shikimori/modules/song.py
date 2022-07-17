@@ -312,7 +312,7 @@ async def ytmusic(client, message: Message):
         if files and os.path.exists(files):
             os.remove(files)
 
-__mod_name__ = "Song 🎵"
+__mod_name__ = "《Song》"
 
 __help__ = """
 Note: Refer to VC player module help in /help to see commands for music player.
