@@ -42,7 +42,7 @@ async def _(event):
 #     await event.delete()
 
 
-__mod_name__ = "TagAll"
+__mod_name__ = "《TagAll》"
 __help__ = """
 *Tag All*
  ❍ `/users` : Get txt file of all users in your group.
