@@ -12,7 +12,7 @@ from Shikimori.ex_plugins.dbfunctions import (
     is_antiservice_on,
 )
 
-__mod_name__ = "AntiService"
+__mod_name__ = "《AntiService》"
 __help__ = """
 Plugin to delete service messages in a chat!
 
