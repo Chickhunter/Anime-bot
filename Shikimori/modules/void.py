@@ -38,4 +38,4 @@ __help__ = """
  
 ❂ /void: Get information about our community! using it in groups may create promotion so we don't support using it in groups."""
    
-__mod_name__ = "【ᴠᴏɪᴅ】"
+__mod_name__ = "🔱【ᴠᴏɪᴅ】🔱"
