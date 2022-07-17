@@ -63,4 +63,4 @@ __help__ = f"""
  Made By @SimpleBoy787
 """
 
-__mod_name__ = "Voice Bot"
+__mod_name__ = "《Voice Bot》"
